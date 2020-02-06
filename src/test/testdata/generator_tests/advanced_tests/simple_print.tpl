@@ -1,0 +1,1 @@
+main(Input) :- print(3).
